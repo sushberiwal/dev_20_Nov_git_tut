@@ -1,11 +1,22 @@
 #For First Time
-
-
+1. git config --global user.name "username"
+2. git config --gloabl user.email "user.email.com"
 
 
 #After First Time
 1. git init => initialize empty git repository
 2. .gitignore => node_modules
 3. git add . => stage all the files
-4. 
+4. git commit -m "initial commit" => create a checkpoint
+5. go to github and create a new git repository
+6. git remote add origin https://github.com/sushberiwal/dev_20_Nov_git_tut.git ( add a git remote )
+7. git push -u origin master (push code from local git to github )
+
+
+#For Existing Repo
+1. git add .
+2. git commit -m "message"
+3. git push -u origin master
+
+
 
