@@ -1,0 +1,11 @@
+#For First Time
+
+
+
+
+#After First Time
+1. git init => initialize empty git repository
+2. .gitignore => node_modules
+3. git add . => stage all the files
+4. 
+
